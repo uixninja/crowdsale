@@ -21,7 +21,7 @@ window.onload = function(){
         //setInterval(alert(1), 1000);
     }
     if ($(".timer").size()) {
-        Timer('November 30, 2017');
+        Timer('November 30, 2018');
     }
     
     $(".slider").size() ? $(".slider").bxSlider({
